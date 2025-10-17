@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @rhushabhmete
-- 👀 I’m interested in Data Analysis Projects
-- 🌱 I’m currently taking a Data Analytics Certification Course
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @rhushabhmete 
+- I'm a Data Analyst focused on driving insights through expertise in cloud data platforms.
+- Currently: Working with cloud technologies, including **Snowflake** and **AWS**.
+- Proficiency: Certified as a **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**.
+- Looking for: Collaborations on data warehousing, ETL/ELT, and advanced analytics projects.
 - 📫 How to reach me email: rushabhmete7@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
